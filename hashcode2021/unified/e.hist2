@@ -1,0 +1,2959 @@
+deg dist
+in deg
+0:1
+1:2
+2:1
+3:2
+4:1
+5:2
+6:1
+7:2
+8:1
+9:2
+10:1
+11:2
+12:1
+13:2
+14:1
+15:2
+16:1
+17:2
+18:1
+19:2
+20:1
+21:2
+22:1
+23:2
+24:1
+25:2
+26:1
+27:2
+28:1
+29:2
+30:1
+31:2
+32:1
+33:2
+34:1
+35:2
+36:1
+37:2
+38:1
+39:2
+40:1
+41:2
+42:1
+43:2
+44:1
+45:2
+46:1
+47:2
+48:1
+49:2
+50:1
+51:2
+52:1
+53:2
+54:1
+55:2
+56:1
+57:2
+58:1
+59:2
+60:1
+61:2
+62:1
+63:2
+64:1
+65:2
+66:1
+67:2
+68:1
+69:2
+70:1
+71:2
+72:1
+73:2
+74:1
+75:2
+76:1
+77:2
+78:1
+79:2
+80:1
+81:2
+82:1
+83:2
+84:1
+85:2
+86:1
+87:2
+88:1
+89:2
+90:1
+91:2
+92:1
+93:2
+94:1
+95:2
+96:1
+97:2
+98:1
+99:2
+100:1
+101:2
+102:1
+103:2
+104:1
+105:2
+106:1
+107:2
+108:1
+109:2
+110:1
+111:2
+112:1
+113:2
+114:1
+115:2
+116:1
+117:2
+118:1
+119:2
+120:1
+121:2
+122:1
+123:2
+124:1
+125:2
+126:1
+127:2
+128:1
+129:2
+130:1
+131:2
+132:1
+133:2
+134:1
+135:2
+136:1
+137:2
+138:1
+139:2
+140:1
+141:2
+142:1
+143:2
+144:1
+145:2
+146:1
+147:2
+148:1
+149:2
+150:1
+151:2
+152:1
+153:2
+154:1
+155:2
+156:1
+157:2
+158:1
+159:2
+160:1
+161:2
+162:1
+163:2
+164:1
+165:2
+166:1
+167:2
+168:1
+169:2
+170:1
+171:2
+172:1
+173:2
+174:1
+175:2
+176:1
+177:2
+178:1
+179:2
+180:1
+181:2
+182:1
+183:2
+184:1
+185:2
+186:1
+187:2
+188:1
+189:2
+190:1
+191:2
+192:1
+193:2
+194:1
+195:2
+196:1
+197:2
+198:1
+199:2
+200:1
+201:2
+202:1
+203:2
+204:1
+205:2
+206:1
+207:2
+208:1
+209:2
+210:1
+211:2
+212:1
+213:2
+214:1
+215:2
+216:1
+217:2
+218:1
+219:2
+220:1
+221:2
+222:1
+223:2
+224:1
+225:2
+226:1
+227:2
+228:1
+229:2
+230:1
+231:2
+232:1
+233:2
+234:1
+235:2
+236:1
+237:2
+238:1
+239:2
+240:1
+241:2
+242:1
+243:2
+244:1
+245:2
+246:1
+247:2
+248:1
+249:2
+250:1
+251:2
+252:1
+253:2
+254:1
+255:2
+256:1
+257:2
+258:1
+259:2
+260:1
+261:2
+262:1
+263:2
+264:1
+265:2
+266:1
+267:2
+268:1
+269:2
+270:1
+271:2
+272:1
+273:2
+274:1
+275:2
+276:1
+277:2
+278:1
+279:2
+280:1
+281:2
+282:1
+283:2
+284:1
+285:2
+286:1
+287:2
+288:1
+289:2
+290:1
+291:2
+292:1
+293:2
+294:1
+295:2
+296:1
+297:2
+298:1
+299:2
+300:1
+301:2
+302:1
+303:2
+304:1
+305:2
+306:1
+307:2
+308:1
+309:2
+310:1
+311:2
+312:1
+313:2
+314:1
+315:2
+316:1
+317:2
+318:1
+319:2
+320:1
+321:2
+322:1
+323:2
+324:1
+325:2
+326:1
+327:2
+328:1
+329:2
+330:1
+331:2
+332:1
+333:2
+334:1
+335:2
+336:1
+337:2
+338:1
+339:2
+340:1
+341:2
+342:1
+343:2
+344:1
+345:2
+346:1
+347:2
+348:1
+349:2
+350:1
+351:2
+352:1
+353:2
+354:1
+355:2
+356:1
+357:2
+358:1
+359:2
+360:1
+361:2
+362:1
+363:2
+364:1
+365:2
+366:1
+367:2
+368:1
+369:2
+370:1
+371:2
+372:1
+373:2
+374:1
+375:2
+376:1
+377:2
+378:1
+379:2
+380:1
+381:2
+382:1
+383:2
+384:1
+385:2
+386:1
+387:2
+388:1
+389:2
+390:1
+391:2
+392:1
+393:2
+394:1
+395:2
+396:1
+397:2
+398:1
+399:2
+400:1
+401:2
+402:1
+403:2
+404:1
+405:2
+406:1
+407:2
+408:1
+409:2
+410:1
+411:2
+412:1
+413:2
+414:1
+415:2
+416:1
+417:2
+418:1
+419:2
+420:1
+421:2
+422:1
+423:2
+424:1
+425:2
+426:1
+427:2
+428:1
+429:2
+430:1
+431:2
+432:1
+433:2
+434:1
+435:2
+436:1
+437:2
+438:1
+439:2
+440:1
+441:2
+442:1
+443:2
+444:1
+445:2
+446:1
+447:2
+448:1
+449:2
+450:1
+451:2
+452:1
+453:2
+454:1
+455:2
+456:1
+457:2
+458:1
+459:2
+460:1
+461:2
+462:1
+463:2
+464:1
+465:2
+466:1
+467:2
+468:1
+469:2
+470:1
+471:2
+472:1
+473:2
+474:1
+475:2
+476:1
+477:2
+478:1
+479:2
+480:1
+481:2
+482:1
+483:2
+484:1
+485:2
+486:1
+487:2
+488:1
+489:2
+490:1
+491:2
+492:1
+493:2
+494:1
+495:2
+496:1
+497:2
+498:1
+499:250
+valid deg dist
+0:12
+1:10
+2:5
+3:8
+4:7
+5:6
+6:8
+7:16
+8:14
+9:12
+10:12
+11:12
+12:11
+13:14
+14:11
+15:12
+16:13
+17:13
+18:12
+19:12
+20:9
+21:10
+22:9
+23:8
+24:8
+25:12
+26:11
+27:13
+28:10
+29:13
+30:11
+31:17
+32:17
+33:17
+34:14
+35:13
+36:13
+37:16
+38:11
+39:13
+40:14
+41:13
+42:11
+43:12
+44:11
+45:11
+46:7
+47:9
+48:8
+49:17
+50:17
+51:17
+52:12
+53:9
+54:9
+55:7
+56:6
+57:9
+58:8
+59:14
+60:12
+61:12
+62:10
+63:13
+64:10
+65:12
+66:14
+67:13
+68:11
+69:14
+70:13
+71:17
+72:16
+73:16
+74:12
+75:13
+76:14
+77:12
+78:11
+79:7
+80:5
+81:7
+82:7
+83:11
+84:9
+85:11
+86:10
+87:8
+88:6
+89:9
+90:8
+91:7
+92:8
+93:12
+94:11
+95:15
+96:13
+97:15
+98:15
+99:14
+100:11
+101:10
+102:7
+103:8
+104:8
+105:10
+106:9
+107:12
+108:10
+109:11
+110:11
+111:9
+112:7
+113:9
+114:7
+115:5
+116:4
+117:4
+118:3
+119:5
+120:5
+121:6
+122:6
+123:9
+124:7
+125:7
+126:5
+127:6
+128:8
+129:9
+130:8
+131:10
+132:9
+133:11
+134:15
+135:13
+136:13
+137:14
+138:11
+139:11
+140:13
+141:9
+142:10
+143:12
+144:8
+145:9
+146:8
+147:9
+148:8
+149:10
+150:10
+151:12
+152:9
+153:12
+154:9
+155:10
+156:10
+157:12
+158:12
+159:9
+160:8
+161:5
+162:6
+163:9
+164:9
+165:9
+166:8
+167:11
+168:11
+169:10
+170:9
+171:6
+172:11
+173:12
+174:13
+175:8
+176:9
+177:12
+178:9
+179:9
+180:9
+181:8
+182:8
+183:7
+184:7
+185:9
+186:10
+187:12
+188:12
+189:17
+190:15
+191:16
+192:16
+193:16
+194:15
+195:14
+196:13
+197:12
+198:11
+199:9
+200:10
+201:8
+202:7
+203:8
+204:9
+205:7
+206:6
+207:4
+208:2
+209:6
+210:5
+211:6
+212:3
+213:7
+214:7
+215:5
+216:5
+217:9
+218:9
+219:15
+220:15
+221:15
+222:12
+223:12
+224:13
+225:14
+226:11
+227:12
+228:11
+229:17
+230:15
+231:15
+232:8
+233:9
+234:11
+235:13
+236:12
+237:11
+238:12
+239:19
+240:18
+241:18
+242:13
+243:14
+244:14
+245:14
+246:11
+247:10
+248:8
+249:6
+250:8
+251:6
+252:3
+253:5
+254:5
+255:7
+256:7
+257:11
+258:9
+259:12
+260:10
+261:10
+262:9
+263:16
+264:13
+265:13
+266:11
+267:11
+268:6
+269:5
+270:7
+271:7
+272:9
+273:10
+274:8
+275:18
+276:17
+277:11
+278:10
+279:14
+280:14
+281:19
+282:20
+283:21
+284:15
+285:11
+286:12
+287:13
+288:9
+289:8
+290:8
+291:7
+292:9
+293:11
+294:11
+295:8
+296:5
+297:9
+298:8
+299:11
+300:10
+301:8
+302:5
+303:8
+304:10
+305:11
+306:11
+307:16
+308:15
+309:16
+310:16
+311:18
+312:13
+313:14
+314:13
+315:10
+316:11
+317:10
+318:11
+319:13
+320:14
+321:11
+322:10
+323:14
+324:12
+325:7
+326:7
+327:10
+328:7
+329:10
+330:10
+331:13
+332:13
+333:12
+334:10
+335:16
+336:14
+337:9
+338:9
+339:9
+340:9
+341:7
+342:8
+343:16
+344:14
+345:13
+346:14
+347:13
+348:8
+349:8
+350:6
+351:6
+352:6
+353:4
+354:3
+355:5
+356:4
+357:9
+358:10
+359:16
+360:15
+361:15
+362:13
+363:19
+364:16
+365:16
+366:14
+367:18
+368:17
+369:19
+370:17
+371:14
+372:12
+373:15
+374:14
+375:16
+376:15
+377:17
+378:14
+379:13
+380:10
+381:10
+382:9
+383:13
+384:12
+385:10
+386:9
+387:12
+388:14
+389:17
+390:18
+391:20
+392:17
+393:15
+394:14
+395:13
+396:13
+397:10
+398:8
+399:9
+400:10
+401:11
+402:10
+403:12
+404:12
+405:10
+406:8
+407:14
+408:11
+409:14
+410:15
+411:16
+412:17
+413:20
+414:20
+415:15
+416:17
+417:17
+418:17
+419:16
+420:15
+421:11
+422:9
+423:10
+424:12
+425:8
+426:9
+427:10
+428:9
+429:9
+430:7
+431:13
+432:10
+433:15
+434:15
+435:13
+436:11
+437:13
+438:9
+439:11
+440:10
+441:12
+442:10
+443:12
+444:9
+445:10
+446:10
+447:11
+448:9
+449:4
+450:3
+451:4
+452:6
+453:11
+454:11
+455:12
+456:11
+457:14
+458:13
+459:14
+460:11
+461:13
+462:10
+463:7
+464:6
+465:6
+466:5
+467:10
+468:10
+469:9
+470:6
+471:11
+472:12
+473:14
+474:11
+475:13
+476:12
+477:9
+478:10
+479:10
+480:11
+481:9
+482:8
+483:10
+484:8
+485:6
+486:5
+487:5
+488:8
+489:10
+490:11
+491:13
+492:11
+493:15
+494:15
+495:15
+496:15
+497:12
+498:12
+499:622
+heaviness of edges
+0 stats
+eji-a:12
+1 stats
+a-b:8
+ejj-b:2
+2 stats
+b-c:5
+3 stats
+c-d:6
+ejj-d:2
+4 stats
+d-e:7
+5 stats
+e-f:4
+ejj-f:2
+6 stats
+f-g:8
+7 stats
+ejj-h:9
+g-h:7
+8 stats
+h-i:14
+9 stats
+ejj-j:1
+i-j:11
+10 stats
+j-ba:12
+11 stats
+ba-bb:8
+ejj-bb:4
+12 stats
+bb-bc:11
+13 stats
+bc-bd:9
+ejj-bd:5
+14 stats
+bd-be:11
+15 stats
+be-bf:9
+ejj-bf:3
+16 stats
+bf-bg:13
+17 stats
+bg-bh:11
+ejj-bh:2
+18 stats
+bh-bi:12
+19 stats
+bi-bj:8
+ejj-bj:4
+20 stats
+bj-ca:9
+21 stats
+ca-cb:6
+ejj-cb:4
+22 stats
+cb-cc:9
+23 stats
+cc-cd:4
+ejj-cd:4
+24 stats
+cd-ce:8
+25 stats
+ce-cf:5
+ejj-cf:7
+26 stats
+cf-cg:11
+27 stats
+cg-ch:9
+ejj-ch:4
+28 stats
+ch-ci:10
+29 stats
+ci-cj:8
+ejj-cj:5
+30 stats
+cj-da:11
+31 stats
+da-db:11
+ejj-db:6
+32 stats
+db-dc:17
+33 stats
+dc-dd:14
+ejj-dd:3
+34 stats
+dd-de:14
+35 stats
+de-df:10
+ejj-df:3
+36 stats
+df-dg:13
+37 stats
+dg-dh:10
+ejj-dh:6
+38 stats
+dh-di:11
+39 stats
+di-dj:8
+ejj-dj:5
+40 stats
+dj-ea:14
+41 stats
+ea-eb:11
+ejj-eb:2
+42 stats
+eb-ec:11
+43 stats
+ec-ed:11
+ejj-ed:1
+44 stats
+ed-ee:11
+45 stats
+ee-ef:8
+ejj-ef:3
+46 stats
+ef-eg:7
+47 stats
+eg-eh:2
+ejj-eh:7
+48 stats
+eh-ei:8
+49 stats
+ei-ej:11
+ejj-ej:6
+50 stats
+ej-fa:17
+51 stats
+ejj-fb:3
+fa-fb:14
+52 stats
+fb-fc:12
+53 stats
+fc-fd:9
+54 stats
+fd-fe:9
+55 stats
+ejj-ff:3
+fe-ff:4
+56 stats
+ff-fg:6
+57 stats
+ejj-fh:5
+fg-fh:4
+58 stats
+fh-fi:8
+59 stats
+ejj-fj:4
+fi-fj:10
+60 stats
+fj-ga:12
+61 stats
+ejj-gb:6
+ga-gb:6
+62 stats
+gb-gc:10
+63 stats
+ejj-gd:4
+gc-gd:9
+64 stats
+gd-ge:10
+65 stats
+ejj-gf:1
+ge-gf:11
+66 stats
+gf-gg:14
+67 stats
+ejj-gh:3
+gg-gh:10
+68 stats
+gh-gi:11
+69 stats
+ejj-gj:3
+gi-gj:11
+70 stats
+gj-ha:13
+71 stats
+ejj-hb:4
+ha-hb:13
+72 stats
+hb-hc:16
+73 stats
+ejj-hd:3
+hc-hd:13
+74 stats
+hd-he:12
+75 stats
+ejj-hf:3
+he-hf:10
+76 stats
+hf-hg:14
+77 stats
+ejj-hh:5
+hg-hh:7
+78 stats
+hh-hi:11
+79 stats
+ejj-hj:2
+hi-hj:5
+80 stats
+hj-ia:5
+81 stats
+ejj-ib:2
+ia-ib:5
+82 stats
+ib-ic:7
+83 stats
+ejj-id:4
+ic-id:7
+84 stats
+id-ie:9
+85 stats
+ejj-if:4
+ie-if:7
+86 stats
+if-ig:10
+87 stats
+ejj-ih:2
+ig-ih:6
+88 stats
+ih-ii:6
+89 stats
+ejj-ij:5
+ii-ij:4
+90 stats
+ij-ja:8
+91 stats
+ejj-jb:2
+ja-jb:5
+92 stats
+jb-jc:8
+93 stats
+ejj-jd:2
+jc-jd:10
+94 stats
+jd-je:11
+95 stats
+ejj-jf:3
+je-jf:12
+96 stats
+jf-jg:13
+97 stats
+ejj-jh:6
+jg-jh:9
+98 stats
+jh-ji:15
+99 stats
+ejj-jj:2
+ji-jj:12
+100 stats
+jj-baa:11
+101 stats
+baa-bab:9
+ejj-bab:1
+102 stats
+bab-bac:7
+103 stats
+bac-bad:6
+ejj-bad:2
+104 stats
+bad-bae:8
+105 stats
+bae-baf:7
+ejj-baf:3
+106 stats
+baf-bag:9
+107 stats
+bag-bah:8
+ejj-bah:4
+108 stats
+bah-bai:10
+109 stats
+bai-baj:8
+ejj-baj:3
+110 stats
+baj-bba:11
+111 stats
+bba-bbb:6
+ejj-bbb:3
+112 stats
+bbb-bbc:7
+113 stats
+bbc-bbd:7
+ejj-bbd:2
+114 stats
+bbd-bbe:7
+115 stats
+bbe-bbf:4
+ejj-bbf:1
+116 stats
+bbf-bbg:4
+117 stats
+bbg-bbh:2
+ejj-bbh:2
+118 stats
+bbh-bbi:3
+119 stats
+bbi-bbj:3
+ejj-bbj:2
+120 stats
+bbj-bca:5
+121 stats
+bca-bcb:3
+ejj-bcb:3
+122 stats
+bcb-bcc:6
+123 stats
+bcc-bcd:3
+ejj-bcd:6
+124 stats
+bcd-bce:7
+125 stats
+bce-bcf:5
+ejj-bcf:2
+126 stats
+bcf-bcg:5
+127 stats
+bcg-bch:4
+ejj-bch:2
+128 stats
+bch-bci:8
+129 stats
+bci-bcj:4
+ejj-bcj:5
+130 stats
+bcj-bda:8
+131 stats
+bda-bdb:6
+ejj-bdb:4
+132 stats
+bdb-bdc:9
+133 stats
+bdc-bdd:7
+ejj-bdd:4
+134 stats
+bdd-bde:15
+135 stats
+bde-bdf:10
+ejj-bdf:3
+136 stats
+bdf-bdg:13
+137 stats
+bdg-bdh:10
+ejj-bdh:4
+138 stats
+bdh-bdi:11
+139 stats
+bdi-bdj:8
+ejj-bdj:3
+140 stats
+bdj-bea:13
+141 stats
+bea-beb:6
+ejj-beb:3
+142 stats
+beb-bec:10
+143 stats
+bec-bed:8
+ejj-bed:4
+144 stats
+bed-bee:8
+145 stats
+bee-bef:5
+ejj-bef:4
+146 stats
+bef-beg:8
+147 stats
+beg-beh:7
+ejj-beh:2
+148 stats
+beh-bei:8
+149 stats
+bei-bej:6
+ejj-bej:4
+150 stats
+bej-bfa:10
+151 stats
+bfa-bfb:9
+ejj-bfb:3
+152 stats
+bfb-bfc:9
+153 stats
+bfc-bfd:7
+ejj-bfd:5
+154 stats
+bfd-bfe:9
+155 stats
+bfe-bff:6
+ejj-bff:4
+156 stats
+bff-bfg:10
+157 stats
+bfg-bfh:8
+ejj-bfh:4
+158 stats
+bfh-bfi:12
+159 stats
+bfi-bfj:7
+ejj-bfj:2
+160 stats
+bfj-bga:8
+161 stats
+bga-bgb:5
+162 stats
+bgb-bgc:6
+163 stats
+bgc-bgd:6
+ejj-bgd:3
+164 stats
+bgd-bge:9
+165 stats
+bge-bgf:5
+ejj-bgf:4
+166 stats
+bgf-bgg:8
+167 stats
+bgg-bgh:6
+ejj-bgh:5
+168 stats
+bgh-bgi:11
+169 stats
+bgi-bgj:9
+ejj-bgj:1
+170 stats
+bgj-bha:9
+171 stats
+bha-bhb:5
+ejj-bhb:1
+172 stats
+bhb-bhc:11
+173 stats
+bhc-bhd:11
+ejj-bhd:1
+174 stats
+bhd-bhe:13
+175 stats
+bhe-bhf:5
+ejj-bhf:3
+176 stats
+bhf-bhg:9
+177 stats
+bhg-bhh:6
+ejj-bhh:6
+178 stats
+bhh-bhi:9
+179 stats
+bhi-bhj:8
+ejj-bhj:1
+180 stats
+bhj-bia:9
+181 stats
+bia-bib:5
+ejj-bib:3
+182 stats
+bib-bic:8
+183 stats
+bic-bid:5
+ejj-bid:2
+184 stats
+bid-bie:7
+185 stats
+bie-bif:5
+ejj-bif:4
+186 stats
+bif-big:10
+187 stats
+big-bih:9
+ejj-bih:3
+188 stats
+bih-bii:12
+189 stats
+bii-bij:8
+ejj-bij:9
+190 stats
+bij-bja:15
+191 stats
+bja-bjb:13
+ejj-bjb:3
+192 stats
+bjb-bjc:16
+193 stats
+bjc-bjd:12
+ejj-bjd:4
+194 stats
+bjd-bje:15
+195 stats
+bje-bjf:13
+ejj-bjf:1
+196 stats
+bjf-bjg:13
+197 stats
+bjg-bjh:10
+ejj-bjh:2
+198 stats
+bjh-bji:11
+199 stats
+bji-bjj:7
+ejj-bjj:2
+200 stats
+bjj-caa:10
+201 stats
+caa-cab:7
+ejj-cab:1
+202 stats
+cab-cac:7
+203 stats
+cac-cad:5
+ejj-cad:3
+204 stats
+cad-cae:9
+205 stats
+cae-caf:5
+ejj-caf:2
+206 stats
+caf-cag:6
+207 stats
+cag-cah:3
+ejj-cah:1
+208 stats
+cah-cai:2
+209 stats
+cai-caj:3
+ejj-caj:3
+210 stats
+caj-cba:5
+211 stats
+cba-cbb:5
+ejj-cbb:1
+212 stats
+cbb-cbc:3
+213 stats
+cbc-cbd:5
+ejj-cbd:2
+214 stats
+cbd-cbe:7
+215 stats
+cbe-cbf:3
+ejj-cbf:2
+216 stats
+cbf-cbg:5
+217 stats
+cbg-cbh:4
+ejj-cbh:5
+218 stats
+cbh-cbi:9
+219 stats
+cbi-cbj:11
+ejj-cbj:4
+220 stats
+cbj-cca:15
+221 stats
+cca-ccb:12
+ejj-ccb:3
+222 stats
+ccb-ccc:12
+223 stats
+ccc-ccd:9
+ejj-ccd:3
+224 stats
+ccd-cce:13
+225 stats
+cce-ccf:10
+ejj-ccf:4
+226 stats
+ccf-ccg:11
+227 stats
+ccg-cch:10
+ejj-cch:2
+228 stats
+cch-cci:11
+229 stats
+cci-ccj:10
+ejj-ccj:7
+230 stats
+ccj-cda:15
+231 stats
+cda-cdb:10
+ejj-cdb:5
+232 stats
+cdb-cdc:8
+233 stats
+cdc-cdd:6
+ejj-cdd:3
+234 stats
+cdd-cde:11
+235 stats
+cde-cdf:11
+ejj-cdf:2
+236 stats
+cdf-cdg:12
+237 stats
+cdg-cdh:9
+ejj-cdh:2
+238 stats
+cdh-cdi:12
+239 stats
+cdi-cdj:9
+ejj-cdj:10
+240 stats
+cdj-cea:18
+241 stats
+cea-ceb:14
+ejj-ceb:4
+242 stats
+ceb-cec:13
+243 stats
+cec-ced:11
+ejj-ced:3
+244 stats
+ced-cee:14
+245 stats
+cee-cef:10
+ejj-cef:4
+246 stats
+cef-ceg:11
+247 stats
+ceg-ceh:9
+ejj-ceh:1
+248 stats
+ceh-cei:8
+249 stats
+cei-cej:6
+250 stats
+cej-cfa:8
+251 stats
+cfa-cfb:5
+ejj-cfb:1
+252 stats
+cfb-cfc:3
+253 stats
+cfc-cfd:2
+ejj-cfd:3
+254 stats
+cfd-cfe:5
+255 stats
+cfe-cff:4
+ejj-cff:3
+256 stats
+cff-cfg:7
+257 stats
+cfg-cfh:8
+ejj-cfh:3
+258 stats
+cfh-cfi:9
+259 stats
+cfi-cfj:8
+ejj-cfj:4
+260 stats
+cfj-cga:10
+261 stats
+cga-cgb:9
+ejj-cgb:1
+262 stats
+cgb-cgc:9
+263 stats
+cgc-cgd:8
+ejj-cgd:8
+264 stats
+cgd-cge:13
+265 stats
+cge-cgf:11
+ejj-cgf:2
+266 stats
+cgf-cgg:11
+267 stats
+cgg-cgh:10
+ejj-cgh:1
+268 stats
+cgh-cgi:6
+269 stats
+cgi-cgj:5
+270 stats
+cgj-cha:7
+271 stats
+cha-chb:3
+ejj-chb:4
+272 stats
+chb-chc:9
+273 stats
+chc-chd:6
+ejj-chd:4
+274 stats
+chd-che:8
+275 stats
+che-chf:11
+ejj-chf:7
+276 stats
+chf-chg:17
+277 stats
+chg-chh:10
+ejj-chh:1
+278 stats
+chh-chi:10
+279 stats
+chi-chj:8
+ejj-chj:6
+280 stats
+chj-cia:14
+281 stats
+cia-cib:16
+ejj-cib:3
+282 stats
+cib-cic:20
+283 stats
+cic-cid:19
+ejj-cid:2
+284 stats
+cid-cie:15
+285 stats
+cie-cif:9
+ejj-cif:2
+286 stats
+cif-cig:12
+287 stats
+cig-cih:10
+ejj-cih:3
+288 stats
+cih-cii:9
+289 stats
+cii-cij:8
+290 stats
+cij-cja:8
+291 stats
+cja-cjb:5
+ejj-cjb:2
+292 stats
+cjb-cjc:9
+293 stats
+cjc-cjd:8
+ejj-cjd:3
+294 stats
+cjd-cje:11
+295 stats
+cje-cjf:5
+ejj-cjf:3
+296 stats
+cjf-cjg:5
+297 stats
+cjg-cjh:6
+ejj-cjh:3
+298 stats
+cjh-cji:8
+299 stats
+cji-cjj:6
+ejj-cjj:5
+300 stats
+cjj-daa:10
+301 stats
+daa-dab:7
+ejj-dab:1
+302 stats
+dab-dac:5
+303 stats
+dac-dad:5
+ejj-dad:3
+304 stats
+dad-dae:10
+305 stats
+dae-daf:9
+ejj-daf:2
+306 stats
+daf-dag:11
+307 stats
+dag-dah:9
+ejj-dah:7
+308 stats
+dah-dai:15
+309 stats
+dai-daj:11
+ejj-daj:5
+310 stats
+daj-dba:16
+311 stats
+dba-dbb:10
+ejj-dbb:8
+312 stats
+dbb-dbc:13
+313 stats
+dbc-dbd:11
+ejj-dbd:3
+314 stats
+dbd-dbe:13
+315 stats
+dbe-dbf:8
+ejj-dbf:2
+316 stats
+dbf-dbg:11
+317 stats
+dbg-dbh:8
+ejj-dbh:2
+318 stats
+dbh-dbi:11
+319 stats
+dbi-dbj:11
+ejj-dbj:2
+320 stats
+dbj-dca:14
+321 stats
+dca-dcb:7
+ejj-dcb:4
+322 stats
+dcb-dcc:10
+323 stats
+dcc-dcd:13
+ejj-dcd:1
+324 stats
+dcd-dce:12
+325 stats
+dce-dcf:6
+ejj-dcf:1
+326 stats
+dcf-dcg:7
+327 stats
+dcg-dch:6
+ejj-dch:4
+328 stats
+dch-dci:7
+329 stats
+dci-dcj:7
+ejj-dcj:3
+330 stats
+dcj-dda:10
+331 stats
+dda-ddb:9
+ejj-ddb:4
+332 stats
+ddb-ddc:13
+333 stats
+ddc-ddd:11
+ejj-ddd:1
+334 stats
+ddd-dde:10
+335 stats
+dde-ddf:9
+ejj-ddf:7
+336 stats
+ddf-ddg:14
+337 stats
+ddg-ddh:8
+ejj-ddh:1
+338 stats
+ddh-ddi:9
+339 stats
+ddi-ddj:6
+ejj-ddj:3
+340 stats
+ddj-dea:9
+341 stats
+dea-deb:3
+ejj-deb:4
+342 stats
+deb-dec:8
+343 stats
+dec-ded:9
+ejj-ded:7
+344 stats
+ded-dee:14
+345 stats
+dee-def:10
+ejj-def:3
+346 stats
+def-deg:14
+347 stats
+deg-deh:12
+ejj-deh:1
+348 stats
+deh-dei:8
+349 stats
+dei-dej:6
+ejj-dej:2
+350 stats
+dej-dfa:6
+351 stats
+dfa-dfb:6
+352 stats
+dfb-dfc:6
+353 stats
+dfc-dfd:3
+ejj-dfd:1
+354 stats
+dfd-dfe:3
+355 stats
+dfe-dff:4
+ejj-dff:1
+356 stats
+dff-dfg:4
+357 stats
+dfg-dfh:5
+ejj-dfh:4
+358 stats
+dfh-dfi:10
+359 stats
+dfi-dfj:9
+ejj-dfj:7
+360 stats
+dfj-dga:15
+361 stats
+dga-dgb:11
+ejj-dgb:4
+362 stats
+dgb-dgc:13
+363 stats
+dgc-dgd:14
+ejj-dgd:5
+364 stats
+dgd-dge:16
+365 stats
+dge-dgf:12
+ejj-dgf:4
+366 stats
+dgf-dgg:14
+367 stats
+dgg-dgh:15
+ejj-dgh:3
+368 stats
+dgh-dgi:17
+369 stats
+dgi-dgj:13
+ejj-dgj:6
+370 stats
+dgj-dha:17
+371 stats
+dha-dhb:12
+ejj-dhb:2
+372 stats
+dhb-dhc:12
+373 stats
+dhc-dhd:10
+ejj-dhd:5
+374 stats
+dhd-dhe:14
+375 stats
+dhe-dhf:11
+ejj-dhf:5
+376 stats
+dhf-dhg:15
+377 stats
+dhg-dhh:13
+ejj-dhh:4
+378 stats
+dhh-dhi:14
+379 stats
+dhi-dhj:12
+ejj-dhj:1
+380 stats
+dhj-dia:10
+381 stats
+dia-dib:9
+ejj-dib:1
+382 stats
+dib-dic:9
+383 stats
+dic-did:8
+ejj-did:5
+384 stats
+did-die:12
+385 stats
+die-dif:9
+ejj-dif:1
+386 stats
+dif-dig:9
+387 stats
+dig-dih:8
+ejj-dih:4
+388 stats
+dih-dii:14
+389 stats
+dii-dij:14
+ejj-dij:3
+390 stats
+dij-dja:18
+391 stats
+dja-djb:13
+ejj-djb:7
+392 stats
+djb-djc:17
+393 stats
+djc-djd:13
+ejj-djd:2
+394 stats
+djd-dje:14
+395 stats
+dje-djf:13
+396 stats
+djf-djg:13
+397 stats
+djg-djh:6
+ejj-djh:4
+398 stats
+djh-dji:8
+399 stats
+dji-djj:7
+ejj-djj:2
+400 stats
+djj-eaa:10
+401 stats
+eaa-eab:9
+ejj-eab:2
+402 stats
+eab-eac:10
+403 stats
+eac-ead:9
+ejj-ead:3
+404 stats
+ead-eae:12
+405 stats
+eae-eaf:5
+ejj-eaf:5
+406 stats
+eaf-eag:8
+407 stats
+eag-eah:12
+ejj-eah:2
+408 stats
+eah-eai:11
+409 stats
+eai-eaj:7
+ejj-eaj:7
+410 stats
+eaj-eba:15
+411 stats
+eba-ebb:13
+ejj-ebb:3
+412 stats
+ebb-ebc:17
+413 stats
+ebc-ebd:15
+ejj-ebd:5
+414 stats
+ebd-ebe:20
+415 stats
+ebe-ebf:12
+ejj-ebf:3
+416 stats
+ebf-ebg:17
+417 stats
+ebg-ebh:11
+ejj-ebh:6
+418 stats
+ebh-ebi:17
+419 stats
+ebi-ebj:13
+ejj-ebj:3
+420 stats
+ebj-eca:15
+421 stats
+eca-ecb:9
+ejj-ecb:2
+422 stats
+ecb-ecc:9
+423 stats
+ecc-ecd:7
+ejj-ecd:3
+424 stats
+ecd-ece:12
+425 stats
+ece-ecf:6
+ejj-ecf:2
+426 stats
+ecf-ecg:9
+427 stats
+ecg-ech:8
+ejj-ech:2
+428 stats
+ech-eci:9
+429 stats
+eci-ecj:6
+ejj-ecj:3
+430 stats
+ecj-eda:7
+431 stats
+eda-edb:7
+ejj-edb:6
+432 stats
+edb-edc:10
+433 stats
+edc-edd:10
+ejj-edd:5
+434 stats
+edd-ede:15
+435 stats
+ede-edf:11
+ejj-edf:2
+436 stats
+edf-edg:11
+437 stats
+edg-edh:10
+ejj-edh:3
+438 stats
+edh-edi:9
+439 stats
+edi-edj:8
+ejj-edj:3
+440 stats
+edj-eea:10
+441 stats
+eea-eeb:7
+ejj-eeb:5
+442 stats
+eeb-eec:10
+443 stats
+eec-eed:8
+ejj-eed:4
+444 stats
+eed-eee:9
+445 stats
+eee-eef:7
+ejj-eef:3
+446 stats
+eef-eeg:10
+447 stats
+eeg-eeh:8
+ejj-eeh:3
+448 stats
+eeh-eei:9
+449 stats
+eei-eej:4
+450 stats
+eej-efa:3
+451 stats
+efa-efb:3
+ejj-efb:1
+452 stats
+efb-efc:6
+453 stats
+efc-efd:5
+ejj-efd:6
+454 stats
+efd-efe:11
+455 stats
+efe-eff:7
+ejj-eff:5
+456 stats
+eff-efg:11
+457 stats
+efg-efh:10
+ejj-efh:4
+458 stats
+efh-efi:13
+459 stats
+efi-efj:11
+ejj-efj:3
+460 stats
+efj-ega:11
+461 stats
+ega-egb:10
+ejj-egb:3
+462 stats
+egb-egc:10
+463 stats
+egc-egd:6
+ejj-egd:1
+464 stats
+egd-ege:6
+465 stats
+ege-egf:4
+ejj-egf:2
+466 stats
+egf-egg:5
+467 stats
+egg-egh:3
+ejj-egh:7
+468 stats
+egh-egi:10
+469 stats
+egi-egj:7
+ejj-egj:2
+470 stats
+egj-eha:6
+471 stats
+eha-ehb:6
+ejj-ehb:5
+472 stats
+ehb-ehc:12
+473 stats
+ehc-ehd:11
+ejj-ehd:3
+474 stats
+ehd-ehe:11
+475 stats
+ehe-ehf:10
+ejj-ehf:3
+476 stats
+ehf-ehg:12
+477 stats
+ehg-ehh:7
+ejj-ehh:2
+478 stats
+ehh-ehi:10
+479 stats
+ehi-ehj:6
+ejj-ehj:4
+480 stats
+ehj-eia:11
+481 stats
+eia-eib:7
+ejj-eib:2
+482 stats
+eib-eic:8
+483 stats
+eic-eid:8
+ejj-eid:2
+484 stats
+eid-eie:8
+485 stats
+eie-eif:5
+ejj-eif:1
+486 stats
+eif-eig:5
+487 stats
+eig-eih:5
+488 stats
+eih-eii:8
+489 stats
+eii-eij:4
+ejj-eij:6
+490 stats
+eij-eja:11
+491 stats
+eja-ejb:7
+ejj-ejb:6
+492 stats
+ejb-ejc:11
+493 stats
+ejc-ejd:9
+ejj-ejd:6
+494 stats
+ejd-eje:15
+495 stats
+eje-ejf:11
+ejj-ejf:4
+496 stats
+ejf-ejg:15
+497 stats
+ejg-ejh:9
+ejj-ejh:3
+498 stats
+ejh-eji:12
+499 stats
+a-ejj:2
+ba-ejj:3
+baa-ejj:2
+bac-ejj:6
+bae-ejj:4
+bag-ejj:3
+bai-ejj:2
+bba-ejj:3
+bbc-ejj:4
+bbe-ejj:2
+bbg-ejj:4
+bc-ejj:5
+bcc-ejj:1
+bcg-ejj:3
+bci-ejj:1
+bda-ejj:2
+bdc-ejj:2
+bde-ejj:4
+bdg-ejj:2
+bdi-ejj:2
+be-ejj:1
+bea-ejj:5
+bec-ejj:4
+bee-ejj:4
+beg-ejj:2
+bei-ejj:4
+bfa-ejj:3
+bfc-ejj:2
+bfe-ejj:2
+bfg-ejj:2
+bfi-ejj:3
+bga-ejj:2
+bgc-ejj:1
+bge-ejj:3
+bgg-ejj:5
+bgi-ejj:3
+bha-ejj:5
+bhc-ejj:4
+bhe-ejj:5
+bhg-ejj:2
+bhi-ejj:1
+bi-ejj:5
+bia-ejj:3
+bic-ejj:5
+bie-ejj:3
+big-ejj:2
+bii-ejj:4
+bja-ejj:2
+bjc-ejj:2
+bje-ejj:4
+bjg-ejj:2
+ca-ejj:5
+caa-ejj:4
+cac-ejj:3
+cae-ejj:4
+cbc-ejj:1
+cbe-ejj:2
+cbg-ejj:2
+cc-ejj:3
+cca-ejj:1
+ccc-ejj:3
+cce-ejj:2
+ccg-ejj:4
+cci-ejj:3
+cda-ejj:1
+cdc-ejj:1
+cde-ejj:2
+cdg-ejj:7
+cdi-ejj:4
+ce-ejj:2
+cea-ejj:3
+cec-ejj:1
+cee-ejj:3
+ceg-ejj:4
+cei-ejj:3
+cfa-ejj:4
+cfc-ejj:1
+cfg-ejj:1
+cfi-ejj:1
+cg-ejj:1
+cgc-ejj:1
+cge-ejj:3
+cgg-ejj:1
+cgi-ejj:3
+cha-ejj:2
+chc-ejj:4
+che-ejj:2
+chg-ejj:5
+chi-ejj:1
+ci-ejj:3
+cia-ejj:2
+cic-ejj:3
+cie-ejj:4
+cig-ejj:1
+cii-ejj:4
+cja-ejj:4
+cjc-ejj:3
+cje-ejj:5
+cjg-ejj:3
+cji-ejj:2
+daa-ejj:2
+dac-ejj:3
+dae-ejj:1
+dag-ejj:4
+dai-ejj:5
+dba-ejj:10
+dbg-ejj:2
+dc-ejj:4
+dca-ejj:7
+dcc-ejj:1
+dce-ejj:3
+dcg-ejj:3
+dci-ejj:1
+dda-ejj:2
+ddc-ejj:3
+dde-ejj:3
+ddg-ejj:2
+ddi-ejj:3
+de-ejj:1
+dea-ejj:3
+dec-ejj:1
+dee-ejj:2
+deg-ejj:1
+dei-ejj:3
+dfc-ejj:2
+dfg-ejj:4
+dfi-ejj:3
+dg-ejj:4
+dga-ejj:2
+dge-ejj:3
+dgi-ejj:2
+dha-ejj:2
+dhc-ejj:5
+dhe-ejj:5
+dhg-ejj:3
+dhi-ejj:2
+di-ejj:2
+dia-ejj:2
+dic-ejj:1
+die-ejj:4
+dig-ejj:1
+dii-ejj:3
+dja-ejj:4
+djc-ejj:2
+dje-ejj:2
+djg-ejj:3
+dji-ejj:1
+e-ejj:3
+eaa-ejj:2
+eac-ejj:2
+eae-ejj:3
+eag-ejj:3
+eai-ejj:4
+eba-ejj:2
+ebc-ejj:2
+ebe-ejj:5
+ebg-ejj:6
+ebi-ejj:1
+ec-ejj:4
+eca-ejj:3
+ecc-ejj:2
+ece-ejj:2
+ecg-ejj:1
+eci-ejj:1
+eda-ejj:1
+edc-ejj:1
+ede-ejj:3
+edg-ejj:1
+edi-ejj:4
+ee-ejj:5
+eea-ejj:2
+eec-ejj:1
+eee-ejj:1
+eeg-ejj:3
+eei-ejj:3
+efa-ejj:1
+efc-ejj:3
+efe-ejj:3
+efi-ejj:3
+eg-ejj:4
+egc-ejj:1
+ege-ejj:3
+egg-ejj:3
+egi-ejj:2
+eha-ejj:2
+ehc-ejj:1
+ehe-ejj:3
+ehg-ejj:2
+ehi-ejj:2
+eia-ejj:4
+eic-ejj:1
+eie-ejj:3
+eig-ejj:1
+eii-ejj:5
+eja-ejj:3
+ejc-ejj:3
+eje-ejj:2
+ejg-ejj:4
+eji-ejj:2
+fa-ejj:2
+fc-ejj:3
+fe-ejj:4
+fg-ejj:1
+fi-ejj:1
+g-ejj:2
+ga-ejj:2
+gc-ejj:2
+ge-ejj:5
+gg-ejj:2
+gi-ejj:3
+ha-ejj:5
+hc-ejj:4
+he-ejj:6
+hg-ejj:3
+hi-ejj:3
+i-ejj:5
+ia-ejj:2
+ic-ejj:2
+ie-ejj:1
+ig-ejj:2
+ja-ejj:3
+jc-ejj:1
+je-ejj:3
+jg-ejj:2
+ji-ejj:5
+size of edges
+2:102
+3:108
+4:131
+5:92
+6:116
+7:106
+8:118
+9:113
+10:114
+length of edges
+5:1
+26:1
+28:1
+30:2
+34:1
+35:1
+39:1
+41:1
+45:1
+47:2
+49:2
+52:1
+55:1
+57:1
+58:2
+59:1
+62:1
+63:1
+64:2
+66:4
+67:1
+69:1
+70:1
+71:1
+72:1
+73:2
+74:1
+75:3
+77:2
+78:3
+79:1
+80:1
+82:1
+83:1
+85:1
+86:1
+87:3
+88:2
+89:1
+90:2
+91:4
+92:1
+93:1
+95:1
+98:2
+99:3
+101:2
+102:2
+103:3
+104:2
+105:1
+106:2
+107:1
+108:2
+109:1
+110:6
+111:4
+112:1
+114:5
+116:3
+119:3
+120:5
+121:1
+122:2
+123:1
+124:2
+126:1
+127:4
+128:6
+129:1
+131:4
+132:1
+133:1
+134:1
+135:2
+136:2
+137:3
+138:2
+139:2
+140:2
+141:1
+142:2
+143:1
+144:2
+146:1
+147:2
+148:4
+149:2
+151:2
+152:1
+153:3
+154:3
+155:2
+156:2
+157:1
+158:1
+159:5
+160:2
+161:1
+162:5
+163:2
+164:2
+165:3
+166:1
+167:2
+168:1
+169:2
+170:1
+171:2
+172:1
+173:3
+174:1
+175:1
+176:4
+177:4
+178:4
+179:2
+180:2
+181:4
+182:3
+183:1
+184:4
+185:4
+187:1
+188:3
+189:5
+190:4
+191:3
+192:1
+193:4
+194:1
+195:4
+196:4
+197:4
+198:1
+199:4
+200:3
+202:3
+203:2
+204:4
+205:3
+206:4
+207:2
+208:2
+209:2
+210:1
+211:3
+213:2
+214:1
+215:2
+216:4
+217:1
+218:2
+219:5
+220:3
+223:3
+224:3
+225:3
+226:5
+227:6
+228:2
+229:3
+230:2
+231:2
+232:1
+233:5
+234:4
+235:1
+236:2
+237:2
+238:6
+239:2
+240:1
+242:4
+243:3
+245:2
+246:3
+248:1
+249:2
+250:2
+251:1
+252:3
+253:4
+254:1
+255:1
+256:4
+257:2
+258:2
+259:2
+261:5
+263:2
+264:3
+265:3
+266:2
+267:3
+268:2
+269:1
+270:2
+271:3
+272:1
+273:2
+274:2
+275:1
+277:3
+278:6
+280:1
+281:3
+282:1
+283:2
+284:1
+285:1
+286:2
+287:1
+288:1
+289:1
+290:2
+291:5
+292:1
+293:5
+294:3
+295:3
+296:2
+297:1
+298:5
+299:3
+300:1
+301:2
+302:1
+303:1
+304:1
+305:2
+306:4
+307:7
+308:1
+309:3
+310:1
+311:1
+313:2
+314:4
+315:4
+316:4
+317:2
+318:2
+319:4
+320:2
+321:2
+322:3
+323:4
+325:2
+326:2
+327:2
+328:2
+329:7
+330:1
+331:1
+332:1
+333:1
+334:3
+335:2
+336:3
+337:5
+338:2
+339:3
+340:4
+341:3
+342:1
+343:2
+344:1
+345:3
+346:1
+347:2
+348:6
+349:1
+350:5
+351:2
+352:1
+353:2
+355:3
+356:4
+357:2
+358:1
+359:1
+360:1
+361:3
+364:1
+365:3
+366:1
+367:1
+368:3
+369:2
+370:1
+371:1
+372:1
+373:1
+374:1
+375:1
+376:2
+377:1
+378:2
+379:4
+380:4
+381:1
+382:3
+383:5
+384:2
+385:1
+386:1
+387:1
+388:2
+389:1
+390:2
+392:5
+393:1
+394:2
+396:1
+397:2
+398:2
+400:5
+401:1
+402:1
+403:2
+404:1
+405:3
+406:4
+407:1
+408:5
+409:1
+410:3
+411:2
+412:1
+413:2
+415:1
+416:1
+417:2
+418:2
+419:1
+420:3
+422:1
+423:2
+425:1
+426:2
+427:3
+428:2
+429:1
+430:3
+431:1
+432:2
+434:1
+435:1
+437:1
+438:3
+440:2
+443:1
+444:1
+445:7
+446:2
+447:4
+448:1
+449:1
+450:2
+451:1
+452:2
+453:2
+454:1
+455:1
+456:1
+457:1
+458:2
+459:1
+460:2
+461:1
+462:3
+463:3
+465:2
+466:2
+467:1
+468:3
+469:3
+470:2
+471:1
+472:2
+473:3
+476:2
+477:1
+478:2
+479:3
+481:1
+482:2
+483:3
+486:3
+487:1
+489:3
+490:2
+491:2
+493:1
+494:1
+495:2
+496:3
+497:3
+498:1
+499:3
+500:1
+501:2
+502:1
+503:2
+504:1
+507:1
+508:3
+509:2
+513:2
+514:2
+515:2
+516:1
+517:1
+518:1
+520:2
+521:3
+522:1
+523:3
+524:1
+525:1
+526:1
+529:4
+530:3
+531:2
+532:1
+533:1
+539:1
+540:1
+541:1
+543:1
+544:1
+547:3
+550:2
+552:1
+553:2
+554:1
+556:1
+557:3
+558:1
+559:1
+560:1
+561:4
+562:1
+563:1
+564:3
+565:2
+566:1
+567:2
+568:2
+571:1
+572:2
+575:2
+576:1
+577:1
+579:1
+580:1
+581:2
+582:1
+601:1
+603:1
+607:1
+610:1
+612:2
+615:1
+622:1
+626:1
+631:1
+637:1
+638:1
+642:1
+648:1
+652:1
+658:1
+662:1
+666:1
+670:1
+673:1
+683:2
+691:1

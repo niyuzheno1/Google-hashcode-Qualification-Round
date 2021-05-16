@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "system_error": "cpp",
+        "xlocale": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "ios": "cpp",
+        "tuple": "cpp",
+        "vector": "cpp"
+    }
+}
